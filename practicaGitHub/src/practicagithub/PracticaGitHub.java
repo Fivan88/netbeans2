@@ -21,5 +21,11 @@ public class PracticaGitHub {
           System.out.append("C");
     }
 
+    @Override
+    public boolean equals(Object o) {
+        return super.equals(o); //To change body of generated methods, choose Tools | Templates.
+    }
+    /** fin del archivo **/
+
     
 }
