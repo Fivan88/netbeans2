@@ -15,7 +15,10 @@ public class PracticaGitHub {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        CharSequence C;
         // TODO code application logic here
+          System.out.append("C");
     }
+
     
 }
